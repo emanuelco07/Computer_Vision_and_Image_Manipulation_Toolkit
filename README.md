@@ -28,3 +28,7 @@ The project is divided into two main components:
 *   **Modular Design:** The project uses modular functions for drawing and processing to ensure code reusability.
 *   **Mathematical Transforms:** Calculations are applied for rotation angles, font sizing, and coordinate-based cropping.
 *   **Contact Sheet Logic:** Implements a grid-based placement algorithm to organize multiple image variations into a unified matrix.
+
+<img src="img1.png" width="45%"> <img src="img2.png" width="45%">
+<br>
+<img src="img3.png" width="45%"> <img src="img4.png" width="45%">
